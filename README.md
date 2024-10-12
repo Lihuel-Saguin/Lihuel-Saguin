@@ -1,59 +1,25 @@
-### Hello World, I'm Ariel Saguin:
-
-<h1 align="center">
-  <a target="_blank">
-    <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Earth.gif" width="24px" style="max-width:100%;">
-  </a>
-  𝐇𝐞𝐥𝐥𝐨, &lt;𝚌𝚘𝚍𝚎𝚛𝚜/&gt; !
-  <a target="_blank">
-    <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Hi.gif" width="40px" />
-  </a>
-</h1>
-
-<br/>
-<br/>
-<a target="_blank">
-  <img align="right" height="250" width="400" alt="GIF" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/code.gif">
-</a>
-
-- 🔭 I’m currently working on **Web Development**
-- 🌱 I’m currently learning **Programming**
-- 👯 I’m looking to collaborate on **Web Development**
-- 🤔 I’m looking for with **Internships**
-- 💬 Ask me about Anything [here](https://github.com/Lihuel-Saguin/leewell3k/issues)! I am happy to help.
-- 😄 Pronouns : **He/Him/His**
+# 💫 About Me:
+🔭 I’m currently working on Web Development<br>🌱 I’m currently learning Programming<br>👯 I’m looking to collaborate on Web Development<br>🤔 I’m looking for with Internships<br>😄 Pronouns : He/Him/His
 
 
-<br/>
-<br/>
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/leewell_3k) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lihuel-s) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Leewell_3k) 
 
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Lihuel-Saguin&theme=monokai&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Lihuel-Saguin&theme=monokai&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Lihuel-Saguin&theme=monokai&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-<p align="center">  
-  <a href="https://www.linkedin.com/in/lihuel-s/" target="blank">
-    <img align="center" src="https://cdn-icons.flaticon.com/png/512/3536/premium/3536505.png?token=exp=1651029313~hmac=e3287a571801587c5eaa42617553e801" alt="leewell" height="28px" width="28px" />
-  </a>
-    <a href="https://www.leewell3k.com.ar" target="blank">
-    <img align="center" src="https://cdn-icons-png.flaticon.com/512/331/331190.png" alt="leewell" height="28px" width="28px" />
-  </a>
-</p>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
+---
+[![](https://visitcount.itsvg.in/api?id=Lihuel-Saguin&icon=2&color=6)](https://visitcount.itsvg.in)
 
+  ## 💰 You can help me by Donating
+  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/Leewell3k) 
 
-
-#
-
-<a target="_blank"><img align="left" height="300" width="300" alt="" src="https://cdn-icons-png.flaticon.com/512/733/733553.png"></a>
-<br/>
-
-
-**LANGUAGES AND TOOLS:**  
-
-
-<br/>
-<br/>
-<code><img height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/732/732190.png"></code>
-<code><img height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/1051/1051277.png"></code>
-<code><img height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png"></code>
-<code><img height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/5968/5968520.png"></code>
-<code><img height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/5968/5968358.png"></code>
-<code><img height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/5968/5968672.png"></code>
+  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
